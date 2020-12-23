@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hello, World! 🌎
 
+My name is Thais, 25 years old and just started in the tech field.
+I graduated on International Relations, nevertheless, I've decided to start a career on cybersecurity after visiting several events (how not to love hacking?)
+<p>Learning Python, CSS, and JavaScript at the moment.</p>
+
+# Be Welcome!!
 <!--
 **thaiscardia/thaiscardia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
