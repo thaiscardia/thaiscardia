@@ -1,21 +1,21 @@
-# Hello, World! 🌎
-
-My name is Thais, 25 years old and just started in the tech field.
-I graduated on International Relations, nevertheless, I've decided to start a career on cybersecurity after visiting several events (how not to love hacking?)
-<p>Learning Python, CSS, and JavaScript at the moment.</p>
-
-# Be Welcome!!
-<!--
-**thaiscardia/thaiscardia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <header><h1> Hello, World! 🌎</h1></header>
+    <ul>
+      <li>My name is Thais (she/her)</li>
+      <li>25 years old</li>
+      <li>Just started in the tech path</li>
+    </ul>
+    <img alt="me at the moment" src="encurtador.com.br/aehm2">
+    <ul>
+      <li>I am currently learning programming languages (focusing on Python, JavaScript and CSS at the moment)</li>
+      <li>Coffee addicted</li>
+    </ul>
+    <p><h1>Be Welcome!!</p></h1>
+    <p><h2>If you have any questions, feel free to ask</p></h2>
+  </body>
+</html>
