@@ -11,7 +11,7 @@
       <li>25 years old</li>
       <li>InfoSec Student</li>
       <div>
-        <script src="https://tryhackme.com/badge/183726"> </script>
+        <img src="https://tryhackme-badges.s3.amazonaws.com/cardia.png" alt="TryHackMe">
       </div>
       <li>Just started on tech path</li>
     </ul>
