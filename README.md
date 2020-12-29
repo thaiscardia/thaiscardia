@@ -9,6 +9,10 @@
       <li>My name is Thais</li>
       <li>She/Her 👩‍💻</li>
       <li>25 years old</li>
+      <li>InfoSec Student</li>
+      <div>
+        <script src="https://tryhackme.com/badge/183726"> </script>
+      </div>
       <li>Just started on tech path</li>
     </ul>
     <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.mangobaaz.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgiphy-4.gif" alt="Me, at the moment">
